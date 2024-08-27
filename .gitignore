@@ -23,9 +23,7 @@ env/
 fine-tuned-ecommerce-model/
 *.pkl
 
-# Data files
-data/
-*.csv
+
 
 # Local configuration files
 *.local
